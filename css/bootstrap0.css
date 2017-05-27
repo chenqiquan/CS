@@ -1,0 +1,185 @@
+/* 导航 */
+body{
+	font-family: "microsoft yahei",sans-serif;
+}
+
+.bawei{
+	background: #40d2b1;
+    color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 20px;
+}
+
+
+.img{
+	width: 100%;
+	
+}					    
+					   
+.navbar-toggle{
+	margin-right: 130px;
+}
+
+body{
+	background: #ebebeb;
+}
+
+.buttom{
+	border-bottom: 2px #f60 solid;
+}
+
+.spa{
+	color: #e67e22;
+}
+
+.top{
+	margin-top: 35px;
+}
+
+
+.btn-default {
+    border: 1px solid #e67e22;
+    background: #e67e22;
+    color: #ffffff;
+    /*-webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;*/
+    transition: all 0.2s ease-in-out;
+}
+.btn {				   
+    padding: 7px 14px; 
+    border-radius: 2px;
+}					   
+
+.aaa{
+	margin: 33px 0;
+}
+
+.btn{
+	margin: 33px 0;
+	
+}
+
+.hua{
+	border: 1px #ebebeb solid;
+	margin-bottom: 30px;
+}
+
+.url-img{
+	padding-bottom: 30px;
+}
+
+#xin{
+	margin: 0 5px;
+	color: #ffffff;   
+	font-size: 10px;
+}
+
+.pagination {
+    margin: 0 0 35px;
+    text-align: center;
+    display: block;
+}
+
+.pagination .page-number {
+    background: #e67e22;
+    color: #ffffff;
+    /*margin: 0 3px;*/
+    display: inline-block;
+    line-height: 36px;
+    padding: 0 14px;
+    border-radius: 3px;
+}   
+
+.pagination a {
+    text-align: center;
+    display: inline-block;
+    color: #ffffff;
+    background: #e67e22;
+    border-radius: 2px;
+}
+.pagination a i {
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+}
+
+.huax{
+	border: 1px #ebebeb solid;
+}
+
+.content p{
+	margin-left: 10px;
+}
+.content p a{
+	color: #f60;
+}
+
+.panel-heading h3{
+	border-bottom: 1px #ccc solid;
+	padding: 10px 0;
+}
+
+.content-load{
+	height: 36px;
+	line-height: 36px;
+	display: inline-block;
+	background: #f60;
+	color: #fff;
+	padding: 0 80px;
+	margin-left: 13px;
+	
+}
+
+.tag-cloud a{
+	border: 1px #ccc solid;
+	color: #d1ad95;
+	padding: 0px 5px;
+	display: inline-block;
+	margin-top: 8px;
+}
+
+.main-footer{
+	padding: 35px 0 0;
+	background: #000000;
+	color: #959595;
+}
+
+.color-con{
+	color: #555555;
+	border-bottom: 1px #555555 dotted;
+	padding: 15px 0 15px 0;
+	
+}
+
+.content a{
+	border: 1px #555555 solid;
+	padding: 0 8px;
+	color: #959595;
+	display: inline-block;
+	margin-top: 10px;
+	
+}
+.content{
+	margin-top: 15px;
+}
+
+.color-co{
+	color: #959595;
+	border-bottom: 1px #555555 dotted;
+	padding: 0 0 15px 0;
+	
+}
+
+.content-buttom{
+	text-align: center; 
+	background: #202020;
+	color: #555555;
+	line-height: 30px;
+	padding: 25px 0;
+}
+
+
